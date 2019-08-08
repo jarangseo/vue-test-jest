@@ -1,4 +1,5 @@
 # vue-test-jest
+# author : Jarang Seo
 
 ## Project setup
 ```
