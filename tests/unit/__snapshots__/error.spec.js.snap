@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getErrorMessage with Snapshot returns an error for a valid code 1`] = `"The camel walks on a leg"`;
+
+exports[`getErrorMessage with Snapshot returns an error for a valid code 2`] = `"Rabbits don't eat carrots"`;
+
+exports[`getErrorMessage with Snapshot returns an error for a valid code 3`] = `"Cats don't eat mouses"`;
+
+exports[`getErrorMessage with Snapshot throws an error otherwise 1`] = `"No error messages for that code"`;
